@@ -506,7 +506,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #1a1709;
 }
 
 .list-unstyled {
@@ -600,7 +600,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 90%;
-  color: #fff;
+  color: rgb(14, 10, 10);
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -2129,7 +2129,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   margin-top: .1rem;
   font-size: .875rem;
   line-height: 1;
-  color: #fff;
+  color: rgb(20, 14, 14);
   background-color: rgba(220, 53, 69, 0.8);
   border-radius: .2rem;
 }
